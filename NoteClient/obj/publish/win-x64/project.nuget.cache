@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RVjtiUtpkdlb18BCV26g3MlK1GiNVnvFek4y8xhuBFbkTWRUO6YG+5uuMBTf+rxIFZTVAnG6fwipByLlQcP7Tg==",
+  "success": true,
+  "projectFilePath": "D:\\work\\custom\\note\\NoteClient\\NoteClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuanj\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\yuanj\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512"
+  ],
+  "logs": []
+}

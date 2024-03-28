@@ -1,0 +1,2 @@
+D:\work\custom\note\NoteClient\bin\publish\NoteClient.pdb
+D:\work\custom\note\NoteClient\bin\publish\NoteClient.exe
